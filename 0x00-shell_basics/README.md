@@ -1,1 +1,1 @@
-Script
+long format display
